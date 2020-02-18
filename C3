@@ -1,5 +1,2 @@
 Creating c3 file
-<<<<<<< Updated upstream
-=======
-Editing
->>>>>>> Stashed changes
+
